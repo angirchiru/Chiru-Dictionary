@@ -1,4 +1,4 @@
-Chiru language dictionary - By Meila
+Chiru language dictionary - By SS Samungir Chiru 
 
 Language: Chiru (Rem) - ISO: cdf - 8,599 speakers - Manipur, India - Endangered
 
@@ -22,6 +22,6 @@ Why Add Chiru?
 GitHub: github.com/angirchiru/Chiru-Dictionary
 Request: Please add Chiru (cdf) to Google Translate next expansion!
 
-Contact: Meila - Oct 2026 - Chiru Language Hero - 1K Sentences Complete!
+Contact: SS Samungir Chiru- Oct 2026 - Chiru Language Hero - 1K Sentences Complete!
 
-Pathien na thanghatsanuo!
+Pathien na ravantha nepek niroso!
