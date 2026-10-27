@@ -24,4 +24,4 @@ Request: Please add Chiru (cdf) to Google Translate next expansion!
 
 Contact: SS Samungir Chiru- Oct 2026 - Chiru Language Hero - 1K Sentences Complete!
 
-Pathien na ravantha nepek niroso!
+Pathien na ravantha nipek niroso!
