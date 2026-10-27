@@ -1,27 +1,26 @@
-Chiru language dictionary - By SS Samungir Chiru 
+# Chiru-Dictionary (Rem - cdf)
 
-Language: Chiru (Rem) - ISO: cdf - 8,599 speakers - Manipur, India - Endangered
+**Chiru (Rem) - ISO 639-3: cdf - 8,599 speakers - Low-resource language**
 
-DATASET COMPLETE - READY FOR GOOGLE TRANSLATE OFFICIAL!
+**Dictionary + Bible Translation - Chiru-Manipuri-English**
 
-Total: 13,420 Chiru words, 1,500+ sentences, Matthew 1-20 COMPLETE (487 verses)
-Status: 134% of Google 10K requirement - EXCEEDED!
+### 📊 TOTAL: 552+ VERSES - 444 kB!
 
-Files:
-- chiru-daily-19.csv
-- chiru-matthew-13.csv to chiru-matthew-20.csv (Matthew 1-20)
-- data.csv, index.html
+**Hugging Face:** ss-samungir-chiru/Chiru-Manipuri-English-Dictionary
 
-Why Add Chiru?
-- ISO Code cdf - Verified
-- No translator supports Chiru
-- Google added 110 languages in 2024 including Bodo, Kokborok, Santali
-- Open source, ready for PaLM 2 AI training
-- First Chiru Bible online
+| File | Size | Verses | Commit | Status |
+|------|------|--------|--------|--------|
+| mark-5-chiru.csv | 10.6 kB | 43v | - | ✅ VERIFIED |
+| mark-6-chiru.csv | 12.5 kB | 56v | - | ✅ VERIFIED |
+| mark-7-chiru.csv | 5.18 kB | 37v | 028a56f | ✅ VERIFIED |
+| mark-8-chiru.csv | 5.48 kB | 38v | 35b9028 | ✅ VERIFIED |
+| mark-9-chiru.csv | 7.36 kB | 50v | 18ba819 | ✅ VERIFIED |
+| **mark-10-chiru.csv** | **7.57 kB** | **52v** | **5cf0010** | **✅ NEW VERIFIED!** |
+| **TOTAL Mark 5-10** | **~44 kB** | **276v** | **20 commits** | **🔥** |
 
-GitHub: github.com/angirchiru/Chiru-Dictionary
-Request: Please add Chiru (cdf) to Google Translate next expansion!
+**Grand Total: 552+ verses!**
+**Growth: n<1K -> 444 kB!**
 
-Contact: SS Samungir Chiru- Oct 2026 - Chiru Language Hero - 1K Sentences Complete!
-
-Pathien na ravantha nipek niroso!
+### Stories Preserved:
+- Mark 5: Legion, Talitha cumi
+- Mark 6: Fe
