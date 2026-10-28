@@ -1,3 +1,15 @@
-| mark-15-chiru.csv | ~10 kB | 47v | NEW | ✅ |
-| TOTAL Mark 5-15 | ~87 kB | 509v | 25 commits | 🔥 |
-TOTAL: 785+ VERSES - ~490 kB!
+MARK GOSPEL COMPLETE!
+| mark-5 | 43v |
+| mark-6 | 56v |
+| mark-7 | 37v |
+| mark-8 | 38v |
+| mark-9 | 50v |
+| mark-10 | 52v |
+| mark-11 | 33v |
+| mark-12 | 44v |
+| mark-13 | 37v |
+| mark-14 | 72v |
+| mark-15 | 47v |
+| mark-16 | 20v | FINAL |
+| TOTAL Mark 5-16 | ~92 kB | 529v | 26 commits | 🔥🔥🔥 |
+| GRAND TOTAL | 805+ VERSES | ~500 kB! | CHIRU MARK COMPLETE! |
