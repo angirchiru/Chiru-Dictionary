@@ -1,3 +1,3 @@
-| mark-14-chiru.csv | ~12 kB | 72v | NEW | ✅ |
-| TOTAL Mark 5-14 | ~77 kB | 462v | 24 commits | 🔥 |
-TOTAL: 738+ VERSES - ~480 kB!
+| mark-15-chiru.csv | ~10 kB | 47v | NEW | ✅ |
+| TOTAL Mark 5-15 | ~87 kB | 509v | 25 commits | 🔥 |
+TOTAL: 785+ VERSES - ~490 kB!
